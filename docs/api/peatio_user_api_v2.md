@@ -764,7 +764,7 @@ Get your orders, result is paginated.
 | remaining_volume | double | The remaining volume, see 'volume'. | No |
 | executed_volume | double | The executed volume, see 'volume'. | No |
 | trades_count | integer | Count of trades. | No |
-| trades | [ [Trade](#trade) ] | Trades wiht this order. | No |
+| trades | [ [Trade](#trade) ] | Trades with this order. | No |
 
 #### Market
 
